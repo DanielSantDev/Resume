@@ -1,46 +1,41 @@
 # Meu Currículo
 
-Este repositório contém informações sobre minha experiência profissional, habilidades e detalhes sobre minha carreira. Este currículo está em constante atualização para refletir minha trajetória profissional e habilidades mais recentes.
+Este repositório contém informações sobre minhas experiências profissionais, habilidades e detalhes sobre minha carreira. Esta currículo está no formato de web-page e está em constante atualização para refletir minha trajetória profissional e habilidades mais recentes.
 
 ## Conteúdo
 
-- [Sobre Mim](#sobre-mim)
-- [Experiência Profissional](#experiência-profissional)
-- [Educação](#educação)
-- [Habilidades](#habilidades)
-- [Contato](#contato)
+* [Sobre Mim](#sobre-mim)
+* [Experiência Profissional](#experi%C3%AAncia-profissional)
+* [Educação](#educa%C3%A7%C3%A3o)
+* [Habilidades](#habilidades)
+* [Contato](#contato)
 
 ## Sobre Mim
 
-Inclua uma breve introdução sobre você, destacando seus pontos fortes, motivações e objetivos profissionais.
+Sou um **Analista e Desenvolvedor de Sistemas**, focado em me especializar cada vez mais com Desenvolvimento Back End, com destaque para **Java com Spring Boot e MongoDB**. Encaro desafios com persistência, buscando soluções e vendo problemas como oportunidades de crescimento. *Gosto da ideia de aprender com meus erros e me fortalecer com os meus acertos.* Constantemente me atualizo, absorvendo as últimas tendências de TI. Sou dedicado, flexível, resiliente, comunicativo e colaborativo, preparado para enfrentar desafios no universo do desenvolvimento de software web.
 
 ## Experiência Profissional
 
-Liste suas experiências profissionais anteriores, destacando:
-- Nome da empresa
-- Cargo
-- Período trabalhado
-- Principais responsabilidades e conquistas
+Ao longo da minha trajetória profissional, acumulei uma diversidade de experiências em diferentes empregos. No entanto, destaco especialmente minha passagem pelo Hotel Sheraton Santos, onde iniciei como cumim(auxiliar de garçom), evoluindo posteriormente para a posição de garçom(atendente) e, finalmente, alcançando o cargo de capitão de equipe(líder). Detalhadamente, compartilho minhas experiências e conquistas na minha página pessoal, proporcionando uma visão mais aprofundada do meu percurso profissional.
 
 ## Educação
 
-Detalhe sua formação acadêmica, incluindo:
-- Nome da instituição
-- Grau obtido
-- Área de estudo
-- Período de estudo
+Formado em Análise e Desenvolvimento de Sistemas - 2024
+
+* Faculdade de Tecnologia do Estado de São Paulo - FATEC Rubens Lara - Santos
 
 ## Habilidades
 
-Destaque suas habilidades relevantes para a área em que atua ou deseja atuar, como:
-- Linguagens de programação
-- Soft skills
-- Ferramentas e tecnologias
+* Já estudei muitas linguagens, contudo decidi me especializar em Backend com Java.
+* Sou dedicado, flexível, resiliente, comunicativo e colaborativo, preparado para enfrentar desafios no universo do desenvolvimento de software web.
+* Java | Spring Boot | MongoDB | APIs | Microservices 
 
 ## Contato
 
-Forneça informações para contato, como e-mail ou redes sociais, para facilitar o contato de potenciais empregadores ou recrutadores.
+Algumas formas de contato:
 
----
-
-Este README serve como uma introdução ao meu currículo. Obrigado por visitar! Para mais detalhes, consulte os arquivos do repositório.
+* [Linkedin](https://www.linkedin.com/in/ddanielssantana/)
+* [Email](mailto:daniel10gja@gmail.com)
+* [WhatsApp](https://wa.me/5513988679378)
+* [Instagram](https://www.instagram.com/daniel_san.t/)
+* [X || Twitter](https://twitter.com/Daniel_SantanaT)
